@@ -11,7 +11,7 @@ The system also uses the **Factory Design Pattern** to apply dynamic pricing log
 
 ## 👨‍💻 Author Info
 - **Name:** Md. Rifat Hossain
--  
+  
 ---
 
 ## 🧰 Technologies Used
